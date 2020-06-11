@@ -10,7 +10,7 @@ Initialize the data base with
 
 Start the server on local
 
-```make start``
+```make start```
 
 ## In case of problem
 
